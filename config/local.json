@@ -22,7 +22,7 @@
     },
     "official": {
       // Please refer to "https://github.com/transitive-bullshit/chatgpt-api/blob/main/docs/classes/ChatGPTAPI.md#parameters"
-      "apiKey": "API_KEY",
+      "apiKey": "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",
       "apiBaseUrl": "",
       "completionParams": {},
       "systemMessage": "",
